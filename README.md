@@ -11,5 +11,5 @@ Aprendiendo Git a través del curso de [Platzi](https://platzi.com/ "Platzi").
 *Aprender a llevar dobles personalidades  *xD
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
-
-[![Gracias por su atencion ](https://acegif.com/es/gracias-gifs/ "Gracias por su atencion ")](https://acegif.com/es/gracias-gifs/ "Gracias por su atencion ")
+### Gracias por su atención
+[![Gracias por su atencion ](https://acegif.com/wp-content/gif/grc2vs-23.gif "Gracias por su atencion ")](https://acegif.com/wp-content/gif/grc2vs-23.gif "Gracias por su atencion ")
